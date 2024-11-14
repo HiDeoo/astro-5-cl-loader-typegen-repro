@@ -1,0 +1,1 @@
+# astro-5-cl-loader-typegen-repro
