@@ -7,7 +7,7 @@
 1. Run `pnpm dev` to generate the type definitions
 1. Check the generated types in `.astro/content.d.ts`
 
-The `docs` content collection is using a loader but gets the old/compat type generated with a `slug` and a `render()` propetries.
+The `docs` content collection is using a loader but gets the old/compat type generated with a `slug` and a `render()` properties.
 
 ```ts
 type ContentEntryMap = {
